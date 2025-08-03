@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ROLE MODEL</title>
+	<style>
+		div{
+			width: 20%;
+			margin: 5px;
+			display: inline-block;
+		}
+	</style>
+</head>
+<body>
+	<h1>SHRAVANI THAKUR</h1>
+	<h1><ins> ROLE MODELS</h1></ins>
+
+	<div style="background-color:orange;color: black;">
+
+	<h1>CHATRAPATI SHIVAJI MAHARAJ</h1>
+	<p>Shivaji I was an Indian ruler and a member of the Bhonsle dynasty. Shivaji carved out his own independent kingdom from the Sultanate of Bijapur that formed the genesis of the Maratha Empire. In 1674, he was formally crowned the Chhatrapati of his realm at Raigad Fort.</p></div>
+
+	<div style="background-color:brown;color: white;">
+
+	<h1>CHATRAPATI SAMBHAJI MAHARAJ</h1>
+	<p>Sambhaji, also known as Shambhuraje, ruled from 1681 to 1689 as the second king of the Maratha Empire, a prominent state in early modern India. He was the eldest son of Shivaji, the founder of the Maratha Empire.</p></div>
+
+	<div style="background-color:pink;color: black;">
+
+	<h1>MAHARANI YESUBAI SAMBHAJI RAJE BHOSALE</h1>
+	<p>Born Rajau Shirke, the daughter of Maratha Sardar Pilajirao Shirke, Yesubai exhibited remarkable diplomacy and courage after the brutal execution of her husband by Mughal emperor Aurangzeb in 1689. Her contributions to Swarajya (self-rule) were commendable, especially during the period between 1680 and 1730.</p></div>
+
+	<div style="background-color:pink;color: black;">
+
+	<h1>RAJMATA JIJABAI</h1>
+	<p>Jijabai Shahaji Bhonsale, referred to as Rajmata Jijabai, was the mother of Shivaji, founder of the Maratha Kingdom. She was a daughter of Lakhujirao Jadhav of Sindkhed Raja.</p></div>
+
+	<div style="background-color:yellow;color: black;">
+
+	<h1>SUBHEDAR TANHAJI MALUSARE</h1>
+	<p>Tanaji Kaloji Malusare or Subedar Tanaji Malusare was a military commander of the Maratha kingdom and a companion of Shivaji Maharaj.
+	   local poet Tulsidas, wrote a powada describing Subhedar Tanaji's heroics and sacrifice of life in the Battle of Sinhagad, which has since made him a popular figure in Indian folklore.</p></div>
+</body>
+</html>

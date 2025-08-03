@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>page title</title>
+</head>
+<body>
+	<h1>Border Style</h1>
+	<h1 style="border:5px dashed orange;">Hello Bacho</h1>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#flip").click(function(){
+				$("#panel").slideToggle('slow');
+			});
+		});
+	</script>
+	<style>
+		#panel,#flip{
+			padding: 5px;
+			text-align: center;
+			background: orange;
+			border: solid 2px #c3c3c3;
+		}
+		#panel{
+			padding: 50px;
+			display: none;
+		}
+	</style>
+	<title>Slide Image</title>
+</head>
+<body>
+	<div id="flip">Click to slide the Imge UP or Down</div>
+	<div id="panel"><img src="maharaj.jpeg" width="250px"></div>
+</body>
+</html>

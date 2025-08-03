@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		x=10;
+		y=20;
+		z=5;
+		if (x>y && x>z) 
+		{
+			document.write(x+ "is greater thaan");
+		}
+		else if (y>x && y>z) 
+		{
+			document.write(y+ "is greater than");
+		}
+		else  
+		{
+			document.write(z+ "is greater than");
+		}
+	</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+     <h1>About shravani</h1>
+     <h2>Diploma detail</h2>
+        I completed my diploma first year(fy)and second year(sy)in IT(Information Technology)in Bharati Vidyapeeth Institute Of Technology,Kharghar.
+     <h3>Professional detail</h3>
+        I am pursuing 3 months Internship in Web Development at V2V EdTech LLP.
+     <h2>Personal detail</h2>
+        Full Name:Shravani kailash Thakur.<br>
+        Mobile no.:9137785357<br>
+        Age:18<br>
+
+    </body>
+</html>

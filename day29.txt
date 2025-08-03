@@ -1,0 +1,13 @@
+<?php
+$server="77.37.35.70";
+$user="u936326194_v2v";
+$password="V2v@2024$";
+$db="u936326194_v2v";
+$conn = new mysqli($servername, $username, $password);
+
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+echo "Connected successfully";
+?>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#fadein").click(function(){
+				$("div").fadeIn(1000);
+			});
+			$("#fadeout").click(function(){
+				$("div").fadeOut(1000);
+			});
+		});
+	</script>
+</head>
+<body>
+	<button id="fadein">Fade In</button>
+	<button id="fadeout">Fade Out</button>
+	<div style="display: none;"><img src="shrau.jpeg" width="350px"></div>
+</body> 
+</html>

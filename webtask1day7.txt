@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+
+        <img src="https://v2vedtech.com/assets/front/img/logo/1.png" height="30%" width="30%">
+    
+        <img src="https://v2vedtech.com/assets/front/img/hero/Girl-LEFT-side.png" height="30%" width="40%">
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1> Check whether the given number is positive or negetive.</h1>
+	<script type="text/javascript">
+	x=10;
+	y=-200;
+	if(x>y)
+	{
+		document.write(x+"is a positive number."+"<br>")
+	}
+	else{
+		document.write(y+"is a negetive number.")
+	}
+</script>
+
+</body>
+</html>

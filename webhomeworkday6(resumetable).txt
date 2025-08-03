@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>RESUME TABLE</title>
+</head>
+<body>
+	<h1><ins>RESUME TABLE</h1></ins>
+	<table border="3">
+		<tr>
+			<td colspan="4"><strong>SHRAVANI'S RESUME</td></strong>
+		<tr>
+			<td colspan="4"><strong>1. Personal Details</td></strong>
+		</tr>
+
+		<tr>
+			<th>Name</th>
+			<td>Shravani Thakur.</td>
+		</tr>
+		<tr>
+			<th>Age</th>
+			<td><i>18</i></td>
+		</tr>
+
+		<tr>
+			<th>DOB</th>
+			<td><i>25/08/2007</i></td>
+		</tr>
+
+		<tr>
+			<th>Contact</th>
+			<td><i>9137785357</i></td>
+		</tr>
+		
+		<td colspan="4"><strong>2. Educational Details</td></strong>	
+		<tr>
+			<th>Diploma</th>
+			<td>Pursuing Diploma in <q>Information Technology.</td></q>
+		</tr>
+
+		<tr>
+			<th>Current Year</th>
+			<td>Third Year(TYIF).</td>
+		</tr>
+
+		<tr>
+			<th>College Name</th>
+			<td>Bharati Vidyapeeth Institute Of Technology,Kharghar.</td>
+		</tr>
+
+		<tr>
+			<th>Qualification</th>
+			<td>I pursued <mark><i>66%</i></mark> in <ins>first semester</ins> and <mark><i>71%</i></mark> in <ins>second semester </ins>of <strong>Information Technology.</td></strong>
+		</tr>
+
+		<td colspan="4"><strong>3. Professional Details</td></strong>
+			<tr>
+				<th>Achivements</th>
+				<td>Currently pursuing Internship of<ins> Web Development </ins>at <mark>V2V EdTech LLP.</mark></td>
+			</tr>
+			<tr>
+				<th>Course Duration</th>
+				<td>3 Months.</td>
+			</tr>
+
+			<td colspan="4"><strong>4. Hobbies</td></strong>
+				<tr>
+					<th>1.</th>
+					<td><em>Sketching.</td>	</em>	
+				</tr>
+
+				<tr>
+					<th>2.</th>
+					<td>Travelling.</td>		
+				</tr>
+
+				<tr>
+					<th>3.</th>
+					<td>To Explore Nature.</td>		
+				</tr>
+
+	</table>
+</body>
+</html>

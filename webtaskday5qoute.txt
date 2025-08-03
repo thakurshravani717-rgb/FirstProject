@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+		<h1> ABOUT SAMBHAJI MAHARAJ</h1>
+	<blockquote>At the age of nine, <strong>Sambhaji</strong> was taken as a political hostage of the Mughal Empire, to guarantee his 
+father's compliance with the treaty of Purandar.
+ He later accompanied his father to Agra where both were placed under house arrest by the Mughal Emperor Aurangzeb; 
+they subsequently escaped. He was later confined by his father at <em>Panhala Fort</em>, with some theories suggesting that it
+ was due to his addiction to "sensual pleasures" or for violating a <mark>Brahmin woman</mark>. He subsequently defected to the Mughal
+ Empire and served under <sub>Diler Khan </sub>in the Battle of Bhupalgarh against his father. He ascended the throne following his
+ father's death, with his rule being largely shaped by the ongoing wars between <ins>the Marathas and the Mughal Empire, as well as
+ other neighbouring powers such as the <sup>Siddi of Janjira</sup>, the Wadiyars of Mysore and the Portuguese Empire in Goa.</blockqoute></ins>
+
+ 		<h1><abbr title="Vision to Victory">V2V</abbr></h1>
+
+ 		<address>
+ 			Ramnagar lalchakki <br>
+ 			veer savarkar marg,<br>
+ 			thakur niwas,<br>
+ 			ulhasnagar4.<br>
+ 		</address>
+
+ 		<p><cite>The scream by Edvard Munch .painted in 1893.</cite></p>
+
+ 		<bdo dir="rtl">This is so hilarious.</bdo> 
+</body>
+</html>

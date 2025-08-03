@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		for(x=1;x<=10;x++)
+		{
+			document.write(x+"<br>");
+		}
+		for(x=1;x<=10;x++)
+		{
+			document.write("stupid"+"<br>");
+		}
+		for(x=10;x>=1;x--)
+		{
+			document.write(x+"<br>");
+		}
+	</script>
+</body>
+</html>

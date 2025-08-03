@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>pizza form</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+  	.dropdown{
+  		float:left;
+  		padding: 25px;
+  	}
+  </style>
+</head>
+<body>
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day16task1\pizzza.webp" height="350px" width="400px">
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day16task1\pizza.avif" height="350px" width="400px">
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day16task1\img1.jpg" height="350px" width="400px"><br><hr>
+
+<div class="container">
+	<form method="get">
+	<h1><strong><ins>PIZZA FORM</strong></ins></h1>
+	<nav class="nav nav-default">
+	<div class="container-fluid">
+	<div class="navbar-header">
+		<a class="navbar-brand" href="#"><i class="fa fa-bars" adia-hidden="true" style="font-size: 24px;"></i></a>
+	</div><br><hr>
+
+	<div class="dropdown" id="dropdown1">
+		<button class="btn btn-success dropdown-toggle" type="button" data-toggle="dropdown">PIZZA TYPES
+		<span class="caret"></span></button>
+		<ul class="dropdown-menu">
+			<li><a href="#">Margherita Pizza</a></li>
+			<li><a href="#">Paneer Barbeque Pizza</a></li>
+			<li><a href="#">Hot to Tell Pizza</a></li>
+			<li><a href="#">Paneer Maharaja Pizza</a></li>
+			<li><a href="#">Detroit Pizza</a></li>
+			<li><a href="#">Sicilian Pizza</a></li>
+			<li><a href="#">Meat Pizza</a></li>
+		</ul>
+	</div>
+</div></nav><br><hr>
+
+	<h2><u>PIZZA SIZE</u></h2>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Personal(10 inches)" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Personal(10 inches)</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Medium(14 inches)" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Medium(14 inches)</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Small(12 inches)" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Small(12 inches)</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Large(16 inches)" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Large(16 inches)</label>
+	</div><hr><br>
+	
+	<h2><u>Additional Items</u></h2>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Garlic Bread" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Garlic Bread</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Cheese Bread" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Cheese Bread</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Mozzarella Sticks" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Mozzarella Stick</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Chicken Wings" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Chicken Wings</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Garden Salad" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Garden Salad</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Caesar Salad" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Caesar Salad</label>
+	</div><hr><br>
+
+	<div class="form-group">
+		<h2><u>Name</u></h2>
+		<input type="text" class="form-control" name="name" placeholder="Enter your name">
+	</div><br>
+	<div class="form-group">
+		<h2><u>Phone</u></h2>
+		<input type="number" class="form-control" name="phone" placeholder="Enter your phone number">
+	</div><br>
+	<div class="form-group">
+		<h2><u>Email Address</h2></u></h2>
+		<input type="text" class="form-control" name="email" placeholder="Enter your email address">
+	</div><hr><br>
+
+	<h2><u>DELIVERY METHOD</u></h2>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Pickup" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Pickup</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Home Delivery" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Home Delivery</label>
+	</div><hr>
+
+	<div class="form-group">
+		<h2><u>ADDRESS</u></h2>
+		<input type="text" class="form-control" name="name" placeholder="Street Address"><br>
+		<input type="text" class="form-control" name="name" placeholder="Apartment/Unit"><br>
+		<input type="text" class="form-control" name="name" placeholder="City"><br>
+		<input type="text" class="form-control" name="name" placeholder="State/Province/Region"><br>
+		<input type="text" class="form-control" name="name" placeholder="Postal/Zip Code"><br>
+	</div><hr><br>
+
+	<div class="form-group">
+		<h2><u>Special Insturctions</u></h2>
+		<input type="text" class="form-control" name="name" placeholder="Additional notes or request for your order">
+	</div><hr><br>
+
+	<h2><u>PAYMENT METHOD</u></h2>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Cash on Delivery/Pickup" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Cash on Delivery/Pickup</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" value="Credit/Debit Card" name="flexRadioDefault" id="flexRadioDefault">
+		<label class="form-check-label" for="flexRadioDefault2">Credit/Debit Card</label>
+	</div><hr><br>
+
+	 <div class="button">
+	<div class="btn btn-warning">Submit</div></div><br>
+</form>
+</div>
+</body>
+</html>

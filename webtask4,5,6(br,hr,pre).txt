@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shravani Thakur</title>
+</head>
+<body>
+	<h1 style="font-size: 60px;font-family:serif;"><center><u>About Shravani</u></center></h1>
+	<h2>Personal Details</h2>
+	<p>Thankyou for Visiting!!<i><u><br>Accounity services!</u></i><br>I'm Shravani Thakur,student of <b>BHARATI VIDYAPEETH INSTITUTE OF TECHNOLOGY,Kharghar.</b><hr>I am pursuing my diploma in <u>Information Technology</u>.</p>
+		<pre>
+			Hello Students!
+			Hello Students!
+			Hello Students!
+			Hello Students!
+			Hello Students!
+		</pre>
+</body>
+</html>

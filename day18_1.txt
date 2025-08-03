@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1>Enter Marks to get Grade</h1>
+	<input type="number" id="marks" placeholder="Enter marks">
+	<button onclick="getGrade()">Check Grade</button>
+	<p id="result"></p>
+	<script>
+		function getGrade()
+		{
+			let m=document.getElementById("marks").value;
+			let g= m>=90?"A":
+				   m>=80?"B":
+				   m>=70?"C":
+				   m>=60?"D": "F";
+				   document.getElementById("result").innerText="Grade:"+g;
+		}
+	</script>
+</body>
+</html>

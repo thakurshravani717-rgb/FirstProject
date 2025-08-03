@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1>LISTS</h1>
+		Movies I like(Ordered list)
+		<ol type="I">
+			<li>tumbad</li>
+			<li>conjuring</li>
+			<li>1920</li>
+			<li>band of brothers</li>
+		</ol>
+
+		Marathi movies(Unorderd  list)
+		<ul type="square">
+			<li>sairat</li>
+			<li>good newws</li>
+			<li>tatya vinchu</li>
+			<li>vivah</li>
+		</ul>
+
+		<dl>
+			<dt>Coffee</dt>
+			<dd>-black hot drink</dd>
+		</dl>
+</body>
+</html>

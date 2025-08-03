@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RESUME</title>
+</head>
+<body>
+	<h1 style="font-size:60;font-family:serif;"><center><u><b>..</b> RESUME OF SHRAVANI THAKUR <b>..</b></u></h1></center><hr>
+	<h2><u><b>.</b> PERSONAL DETAILS</u></h2>
+	<pre>
+		<h2>1.<u>Full Name</u>: Shravani kailash Thakur.<br></h2>
+		<h2>2.<u>Age</u>: <i>18</i><br></h2>
+		<h2>3.<u>DOB</u>: <i>25/08/2007</i><br></h2></h2>
+		<h2>4.<u>Contact no</u>:<i> 9137785357</i><br></h2>
+	</pre><hr>
+	<h2><u><b>.</b> EDUCATIONAL DETAILS</u></h2>
+	<pre>
+		<h2><b>.</b> <u>Diploma<u>: Pursuing diploma in Information Technology.<br></h2></h2>
+		<h2><b>.</b> <u>Current Year</u>: TYIF.<br></h2>
+		<h2><b>.</b> <u>College Name</u>: BHARATI VIDYAPEETH INSTITUTE OF TECHOLOGY,KHARGHAR NAVI MUMBAI.</h2></h2>
+		</pre><hr>
+	<h2><u><b>.</b> PROFESSIONAL DETAILS</u></h2>
+	<pre>
+		<h2><b>.</b> Currently pursuing Internship of <i>Web Development</i>at <b> V2V EdTech LLP</b>.</h2>
+		<h2><b>.</b> Course Duration: 3 Months.</h2>
+	</pre><hr>
+	<h2><u><b>.</b> HOBBIES</u></h2>
+	<pre>
+	<h2><b>.</b> <i>Sketching.</i></h2>
+	<h2><b>.</b> <i>Travelling.</i></h2>
+	<h2><b>.</b> <i>To Explore Nature.</i></h2>
+</pre><hr>
+	<h2><u><center>THANKYOU!!</h2></u></center>
+</body>
+</html>
+

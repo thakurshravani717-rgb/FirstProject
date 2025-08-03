@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1 style="background-color: red; color: white;font-size: 300%;text-align: center;">WELCOME TO 5TH SESSION</h1>
+	<h1 style="background-color: yellow; color: black;font-size: 300%;text-align: center;">WELCOME TO ULHASNAGAR</h1>
+</body>
+</html>

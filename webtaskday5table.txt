@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+		<table border="3">
+			<tr><td colspan="4">STUDENT DETAILS</td></tr>
+			<tr>
+				<th>Name</th>
+				<th>Address</th>
+				<th>Phone</th>
+				<th>Salary</th>
+			</tr>
+			<tr>
+				<td>Shravani</td>
+				<td>Ulhasnagar</td>
+				<td>943846835</td>
+				<td>10000</td>
+			</tr>
+			<tr>
+				<td>Ankita</td>
+				<td>Kalyan</td>
+				<td>625472854</td>
+				<td>10000</td>
+			</tr>
+			<tr>
+				<td>Pallavi</td>
+				<td>Ambivali</td>
+				<td>642854782</td>
+				<td>10000</td>
+			</tr>
+		</table><br></br>
+
+		<table border="4"style="widht:100%">
+			<tr>
+				<th>Name</th>
+				<td>Shravani</td>
+			</tr>
+			<tr>
+				<th rowspan="4">Phone</th>
+				<td>7492684329</td>
+			</tr>
+		</table>
+
+</body>
+</html>

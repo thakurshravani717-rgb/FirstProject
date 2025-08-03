@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>drivinglicenceapplication</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	  <style>
+	  	h1{
+	  		text-align: center;
+	  		font-family: serif;
+	  	}
+	  </style>
+</head>
+<body>
+
+	<h1 style="background-color: lightblue;"><ins>||DRIVING LICENSE APPLICATION||</ins></h1><hr>
+	<div class="form-group">
+			<h2><u>Branch</u></h2>
+			<input type="text" class="form-control" name="name" placeholder="Enter your branch">
+		</div><hr>
+		<form>
+			<h2><u>Date</u></h2>
+			<input type="date"><br><hr>
+
+		<h2 style="background-color: lightblue;"><u>APPLYING FOR A</u></h2>
+		<div class="form-check">
+			<input class="form-check-input" type="radio" value="Learner Permit" name="flexRadioDefault" id="flexRadioDefault">
+			<label class="form-check-label" for="flexRadioDefault2">Learner Permit</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="radio" value="ID Card" name="flexRadioDefault" id="flexRadioDefault">
+			<label class="form-check-label" for="flexRadioDefault2">ID Card</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="radio" value="Renewal" name="flexRadioDefault" id="flexRadioDefault">
+			<label class="form-check-label" for="flexRadioDefault2">Renewal</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="radio" value="Repalcement" name="flexRadioDefault" id="flexRadioDefault">
+			<label class="form-check-label" for="flexRadioDefault2">Replacement</label>
+		</div><hr>
+
+		<h2 style="background-color: lightblue;"><u>YOUR PERSONAL DETAILS</u></h2>
+		<div class="form-group">
+			<h3><u>Full Last Name</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Enter your Full Last Name">
+		</div>
+		<div class="form-group">
+			<h3><u>Full First Name</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Enter your Full First Name">
+		</div>
+		<div class="form-group">
+			<h3><u>Nationality</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Nationality">
+		</div>
+			<h3><u>Gender</u></h3>
+			<div class="form-check">
+			<input class="form-check-input" type="radio" value="female" name="flexRadioDefault" id="flexRadioDefault">
+			<label class="form-check-label" for="flexRadioDefault2">Female</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="radio" value="male" name="flexRadioDefault" id="flexRadioDefault">
+			<label class="form-check-label" for="flexRadioDefault2">Male</label>
+		</div>
+		<div class="form-group">
+			<h3><u>Date of Birth</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Enter your DOB">
+		</div>
+		<div class="form-group">
+			<h3><u>Address where you live</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Enter your Address">
+		</div>
+		<div class="form-group">
+			<h3><u>Email Address</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Enter your Email Address">
+		</div><hr>
+
+		<h2 style="background-color: lightblue;"><u>ID CARD NUMBER AND DETAILS</u></h2>
+		<div class="form-group">
+			<h3><u>ID card number</u></h3>
+		<input type="text" class="form-control" name="name" placeholder="Enter the identification number it appears on th card ">
+		</div><hr>
+
+		<h2 style="background-color: lightblue;"><u>IDENTIFICATION INFORMATION</u></h2>
+		<div class="form-check">
+			<h3>Driver License?</h3>
+			<div class="button">
+			<div class="btn btn-success">yes</div>
+			<div class="btn btn-danger">no</div>
+		</div>
+		<h3>Learner Permit?</h3>
+			<div class="button">
+			<div class="btn btn-success">yes</div>
+			<div class="btn btn-danger">no</div>
+		</div>
+		<h3>Non-driver ID Card?</h3>
+			<div class="button">
+			<div class="btn btn-success">yes</div>
+			<div class="btn btn-danger">no</div>
+		</div></div><hr>
+
+		<h2><u>Submit</u></h2>
+		<button type="submit" class="btn btn-primary">Submit</button><hr>
+	</form>
+</body>
+</html>

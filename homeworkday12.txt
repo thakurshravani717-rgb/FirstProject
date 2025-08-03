@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SELECTORS</title>
+	<link rel="stylesheet" tyoe="text/css" href="style.css">
+</head>
+<body>
+
+	<h1><u>SHRAVANI THAKUR</u></h1>
+	<h1>ANY 5 FAV ROLE MODELS USING SELECTORS</h1>
+	<h1>GUKESH DOMMARAJU</h1>
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day12 task1\gukesh.jpg" height="20%" width="25%"><br>
+	<p style="background-color:orange;">Gukesh Dommaraju (born 29 May 2006) is an Indian chess grandmaster and the reigning World Chess Champion. A chess prodigy, Gukesh is the youngest undisputed world champion, the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and the third-youngest to have surpassed 2700 Elo at the age of 16. He earned the title of grandmaster at the age of 12 and is the third-youngest grandmaster in chess history.</p><hr>
+
+	<h1>MAHENDRA SINGH PANSINGH DHONI</h1>
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day12 task1\msdhoni.jpg" height="20%" width="25%"><br>
+	<p style="background-color:orange;">Mahendra Singh Dhoni born 7 July 1981 is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper. Widely regarded as one of the most prolific wicket-keeper batsmen and captains and one of the greatest ODI batsmen, he represented the Indian cricket team and was the captain of the side in limited overs formats from 2007 to 2017 and in test cricket from 2008 to 2014. Dhoni has captained the most international matches and is the most successful Indian captain. He has led India to victory in the 2007 ICC World Twenty20, the 2011 Cricket World Cup, and the 2013 ICC Champions Trophy, being the only captain to win three different limited overs ICC tournaments. He also led the teams that won the Asia Cup in 2010, 2016 and was a member of the title winning squad in 2018.</p><hr>
+
+	<h1>ROHIT GURUNATH SHARMA</h1>
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day12 task1\rohit.webp" height="20%" width="25%"><br>
+	<p style="background-color:orange;"><b class="para">Rohit Sharma (born 30 April 1987) is an Indian international cricketer and the captain of the national team in ODIs.</b> He is also a former captain in Tests and T20Is. He is widely regarded as one of the greatest T20I opening batters of all time. He is a right-handed batsman who plays for Mumbai Indians in Indian Premier League and for Mumbai in domestic cricket. After the team's victory at the 2024 Men's T20 World Cup, he announced his retirement from T20Is. He was also a member of the teams that won the 2007 T20 World Cup, the 2013 ICC Champions Trophy and the 2025 ICC Champions Trophy.</p><hr>
+
+	<h1>NEERAJ CHOPRA</h1>
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day12 task1\neeraj.jpeg" height="20%" width="25%"><br>
+	<p style="background-color:orange;">Neeraj Chopra PVSM VSM (born 24 December 1997) is an Indian track and field athlete. Considered as one of the greatest javelin throwers of all time, he's a double medalist at the Olympics, World Championships, and the Asian Games.He has won the Diamond League once. Chopra won the gold medal at the 2020 Olympics, becoming the first Asian javelin throw athlete to do so. He became the first Asian to win a gold in javelin at the World Championships after his win in 2023. Chopra has won gold medals in every major tournament. He has a podium finish streak in 24 consecutive competitions, dating back to 2020. Since his performance at the 2016 World U20 Championship, he continues to hold the junior javelin throw world record.</p><hr>
+
+	<h1>VIRAT PREM KOHLI</h1>
+	<img src="C:\Users\Dell Latitude 5490\OneDrive\Desktop\web homework\day12 task1\kohli.avif" height="20%" width="25%"><br>
+	<p style="background-color:orange;"><b id="content">Virat Kohli (born 5 November 1988) is an Indian international cricketer who plays ODI cricket for the national team and is a former captain in all formats.</b>He is a right-handed batsman and occasional right-arm medium pace bowler. Considered one of the greatest all-format batsmen in the history of cricket, he is called the King, the Chase Master, and the Run Machine for his skills, records and ability to lead his team to victory.Kohli is the highest run-scorer in the Indian Premier League, third in T20I, third in ODI, and third in international cricket.He has the most ODI centuries and second-most centuries in international cricket with 82 centuries across all formats of the game. Kohli is the most successful Test captain of India with 3 back-to-back Test mace wins and most victories in his tenure. He is the only batter to earn 900 rating points in all three formats.</p>
+</body>
+</html> 
+
+
+
+
+
+
+
+
+css code
+h1{
+			text-decoration: underline;
+			font-family: serif;
+		}
+		p{
+			color: black;
+			font-size:20px;
+		}
+		.para{
+			color: white;
+			background-color:black;	
+		}
+		#content{
+			color: green;
+		}
