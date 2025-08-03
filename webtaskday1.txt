@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>day1</title>
+</head>
+<body>
+	<h1>About Shravani</h1>
+	<h2>Educational Details</h2>
+	<h3>Degree Details</h3>
+	<h2>Professional Details</h2>
+</body>
+</html>
